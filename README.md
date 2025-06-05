@@ -22,7 +22,7 @@ Projeto em Node.js para coletar automaticamente as principais manchetes do site 
 1. Clone este repositório:
 
 ```bash
-git clone  
+git clone https://github.com/alessandramacedodev/email-scrap  
 cd Email-Scrap
 
 2. Instale as dependências:
