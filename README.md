@@ -22,7 +22,7 @@ Uso de variáveis de ambiente para manter as credenciais seguras
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/lanalcantara/Email-Scrap.git
+git clone https://github.com/alessandramacedodev/email-scrap
 cd Email-Scrap
 ```
 
